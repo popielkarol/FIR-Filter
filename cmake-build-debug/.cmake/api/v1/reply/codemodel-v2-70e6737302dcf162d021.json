@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Filtr_C_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Filtr_C_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Filtr_C_-Debug-12db95237b5b5720d772.json",
+					"name" : "Filtr_C_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/PWr/6 semestr/Procesory sygna\u0142owe 2/lab3 implementacja sta\u0142oprzecinkowa/Filtr_stalyprzecinek/cmake-build-debug",
+		"source" : "D:/PWr/6 semestr/Procesory sygna\u0142owe 2/lab3 implementacja sta\u0142oprzecinkowa/Filtr_stalyprzecinek"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
